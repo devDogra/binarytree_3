@@ -1,3 +1,5 @@
+// clever version
+
 #include <iostream>
 #include <algorithm>
 #include <iterator>
